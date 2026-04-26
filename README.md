@@ -34,7 +34,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Emotion-Aware Companion
+### 🧠 Emotion-Aware Companion(In Progress)
 > *FSM · Behavior-Driven AI*
 
 <img src="https://raw.githubusercontent.com/My-GameDev-Chores/Project-Emotion-aware/main/media/gameplay.gif" width="100%"/>

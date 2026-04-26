@@ -63,7 +63,8 @@ From real-time multiplayer to adaptive AI companions, I ship complete, polished 
 - Session-based player behavior detection  
 - Dynamic guidance & response system  
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/v0th0/Project-Emotion-aware)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)]([https://github.com/v0th0/Project-Emotion-aware](https://github.com/My-GameDev-Chores/Project-Emotion-aware))
+
 
 </td>
 <td width="50%" valign="top">

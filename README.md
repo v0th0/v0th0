@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jyoti%20Bhaskar%20Bhuyan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Game%20Developer%20%C2%B7%20Unity%20%C2%B7%20Multiplayer%20Systems%20%C2%B7%20UI%2FUX&descAlignY=60&descSize=17&descColor=ccccff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jyoti%20Bhaskar%20Bhuyan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Game%20Developer%20%C2%B7%20Unity%20%C2%B7%20Gameplay%20Programming&descAlignY=60&descSize=17&descColor=ccccff" width="100%"/>
 
 <br/>
 
-<p>I build interactive game systems — focused on <strong>gameplay mechanics, multiplayer networking, and player experience</strong>.<br/>
-From real-time multiplayer to adaptive AI companions, I ship complete, polished systems.</p>
+<p>Hi, I'm Jyoti — a passionate game developer focused on crafting solid gameplay systems,<br/>
+exploring multiplayer architecture, and continuously improving how games feel to play.</p>
 
 <br/>
 
@@ -33,9 +33,6 @@ From real-time multiplayer to adaptive AI companions, I ship complete, polished 
 [![Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=flat-square&logo=github&logoColor=white)](https://github.com/My-GameDev-Chores/Photon_Sample-Project--1)
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 🧠 Emotion-Aware Companion
@@ -50,6 +47,9 @@ From real-time multiplayer to adaptive AI companions, I ship complete, polished 
 [![Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=flat-square&logo=github&logoColor=white)](https://github.com/My-GameDev-Chores/Project-Emotion-aware)
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### ⏳ TimeBubble 2D
@@ -64,9 +64,6 @@ From real-time multiplayer to adaptive AI companions, I ship complete, polished 
 [![Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=flat-square&logo=github&logoColor=white)](https://github.com/My-GameDev-Chores/TimeBubble_2D)
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 🎨 Color Stack
@@ -81,6 +78,9 @@ From real-time multiplayer to adaptive AI companions, I ship complete, polished 
 [![Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=flat-square&logo=github&logoColor=white)](https://github.com/My-GameDev-Chores/Color-Stack)
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### ♟️ Chess (Unity 2D)
@@ -94,20 +94,18 @@ From real-time multiplayer to adaptive AI companions, I ship complete, polished 
 
 [![Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=flat-square&logo=github&logoColor=white)](https://github.com/My-GameDev-Chores/ChessTemplate-Unity2d)
 
+</td>
 <td width="50%" valign="top">
 
-### 🏃 Endless Runner
-> 🚧 *In Progress* &nbsp;·&nbsp; Procedural · Progression
+<br/><br/><br/>
 
-<img src="https://raw.githubusercontent.com/My-GameDev-Chores/EndlessRunner/main/media/gameplay.gif" width="100%"/>
+<div align="center">
 
-- Procedural obstacle & coin spawning
-- Dynamic difficulty scaling over time
-- Score-based progression system
+*More projects on the way.*<br/><br/>
 
-[![Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=flat-square&logo=github&logoColor=white)](https://github.com/My-GameDev-Chores/EndlessRunner)
+[![All Repos](https://img.shields.io/badge/Browse%20All-%23181717?style=flat-square&logo=github&logoColor=white)](https://github.com/orgs/My-GameDev-Chores/repositories)
 
-</td>
+</div>
 
 </td>
 </tr>

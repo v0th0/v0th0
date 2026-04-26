@@ -21,20 +21,6 @@ From real-time multiplayer to adaptive AI companions, I ship complete, polished 
 <tr>
 <td width="50%" valign="top">
 
-### 🏃 Endless Runner
-> 🚧 *In Progress* &nbsp;·&nbsp; Procedural · Progression
-
-<img src="https://raw.githubusercontent.com/My-GameDev-Chores/EndlessRunner/main/media/gameplay.gif" width="100%"/>
-
-- Procedural obstacle & coin spawning
-- Dynamic difficulty scaling over time
-- Score-based progression system
-
-[![Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=flat-square&logo=github&logoColor=white)](https://github.com/My-GameDev-Chores/EndlessRunner)
-
-</td>
-<td width="50%" valign="top">
-
 ### 🌐 Multiplayer Voice Game
 > *Photon PUN 2 + Voice* &nbsp;·&nbsp; Real-Time
 
@@ -107,6 +93,21 @@ From real-time multiplayer to adaptive AI companions, I ship complete, polished 
 - Check, checkmate & board state logic
 
 [![Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=flat-square&logo=github&logoColor=white)](https://github.com/My-GameDev-Chores/ChessTemplate-Unity2d)
+
+<td width="50%" valign="top">
+
+### 🏃 Endless Runner
+> 🚧 *In Progress* &nbsp;·&nbsp; Procedural · Progression
+
+<img src="https://raw.githubusercontent.com/My-GameDev-Chores/EndlessRunner/main/media/gameplay.gif" width="100%"/>
+
+- Procedural obstacle & coin spawning
+- Dynamic difficulty scaling over time
+- Score-based progression system
+
+[![Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=flat-square&logo=github&logoColor=white)](https://github.com/My-GameDev-Chores/EndlessRunner)
+
+</td>
 
 </td>
 </tr>

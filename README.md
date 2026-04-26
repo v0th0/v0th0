@@ -1,74 +1,100 @@
-# Jyoti Bhaskar Bhuyan
+# 👋 Hi, I'm Jyoti Bhaskar Bhuyan
 
-**Game Developer | Unity Developer | Multiplayer Systems | UI/UX**
+🎮 Game Developer | Unity Developer | Multiplayer Systems
 
 I build interactive game systems focused on **gameplay mechanics, multiplayer networking, and player experience**.
 
 ---
 
-## Featured Projects
+## 🎮 Featured Projects
 
 ### 🏃 Endless Runner *(In Progress)*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/EndlessRunner/main/media/gameplay.gif" width="600"/>
+</p>
 
-* Procedural obstacle spawning
-* Speed-based progression system
-* Dynamic gameplay scaling
-
-### 🌐 Multiplayer Voice-Enabled Game
-
-* Real-time player synchronization
-* Integrated voice communication
-* Built using Photon PUN 2
-
-### 🧠 Emotion-Aware Companion System
-
-* Behavior-driven adaptive companion
-* Rule-based decision system (FSM)
-* Dynamic player guidance system
-
-### ⏳ TimeBubble_2D
-
-* Time manipulation mechanic
-* Slow-motion gameplay control
-
-### 🎨 Color Stack
-
-* Timing-based stacking mechanics
-* Responsive visual feedback
-
-### ♟️ Chess (Unity 2D)
-
-* Turn-based system
-* Move validation and board logic
+- Procedural obstacle spawning  
+- Score-based progression system  
+- Dynamic gameplay scaling  
 
 ---
 
-## Tech Stack
+### 🌐 Multiplayer Voice Game (Photon)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/Photon_Sample-Project--1/main/media/gameplay.gif" width="600"/>
+</p>
 
-### Game Development
+- Real-time player synchronization  
+- Multiplayer lobby & room system  
+- Voice communication integration  
 
+---
+
+### 🧠 Emotion-Aware Companion System
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/Project-Emotion-aware/main/media/gameplay.gif" width="600"/>
+</p>
+
+- Behavior-based adaptive companion  
+- FSM-based AI system  
+- Dynamic player guidance  
+
+---
+
+### ⏳ TimeBubble 2D
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/TimeBubble_2D/main/media/gameplay.gif" width="600"/>
+</p>
+
+- Time manipulation mechanics  
+- Slow-motion gameplay system  
+- Player interaction design  
+
+---
+
+### 🎨 Color Stack
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/Color-Stack/main/media/gameplay.gif" width="600"/>
+</p>
+
+- Precision-based stacking system  
+- Score progression  
+- Responsive gameplay feedback  
+
+---
+
+### ♟️ Chess (Unity 2D)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/ChessTemplate-Unity2d/main/media/gameplay.gif" width="600"/>
+</p>
+
+- Rule-based move validation  
+- Turn-based system  
+- Board state management  
+
+---
+
+## ⚙️ Tech Stack
+
+### 🎮 Game Development
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
 </p>
 
-### Multiplayer
-
+### 🌐 Multiplayer
 <p>
   <img src="https://img.shields.io/badge/Photon-004480?style=for-the-badge&logo=photon&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netcode-6A5ACD?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netcode-512BD4?style=for-the-badge"/>
 </p>
 
-### Design & Tools
-
+### 🎨 Design & Tools
 <p>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
 </p>
 
-### Version Control
-
+### 🔧 Version Control
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -76,16 +102,18 @@ I build interactive game systems focused on **gameplay mechanics, multiplayer ne
 
 ---
 
-## Current Focus
+## 📌 Current Focus
 
-* Building polished, portfolio-ready game projects
-* Strengthening multiplayer systems and gameplay architecture
-* Improving game feel and player interaction
+- Building polished game portfolio projects  
+- Improving multiplayer architecture  
+- Enhancing gameplay systems & player interaction  
 
 ---
 
-## Connect
+## 📫 Connect With Me
 
-* GitHub: https://github.com/v0th0
-* LinkedIn: https://www.linkedin.com/in/v0th0
-* Email: [jaybardhanbhuyan@gmail.com](mailto:jaybardhanbhuyan@gmail.com)
+- GitHub: https://github.com/YOUR-USERNAME  
+- LinkedIn: https://linkedin.com/in/YOUR-LINK  
+- Email: YOUR-EMAIL  
+
+---

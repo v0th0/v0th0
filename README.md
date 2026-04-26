@@ -137,7 +137,7 @@ From real-time multiplayer to adaptive AI companions, I ship complete, polished 
 
 <br/>
 
-[![All Repos](https://img.shields.io/badge/All%20Repositories-181717?style=for-the-badge&logo=github)](https://github.com/v0th0?tab=repositories)
+[![All Repos](https://img.shields.io/badge/All%20Repositories-181717?style=for-the-badge&logo=github)](https://github.com/My-GameDev-Chores)
 
 </td>
 </tr>

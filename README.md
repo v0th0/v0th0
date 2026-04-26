@@ -78,7 +78,7 @@ I build interactive game systems focused on **gameplay mechanics, multiplayer ne
 
 ### 🎮 Game Development
 <p>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW8Pkx0zdDLur9Lq_lfG0H_74VvFffCDyF0A&s"/>
   <img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
 </p>
 
@@ -114,6 +114,6 @@ I build interactive game systems focused on **gameplay mechanics, multiplayer ne
 
 - GitHub: https://github.com/YOUR-USERNAME  
 - LinkedIn: https://linkedin.com/in/YOUR-LINK  
-- Email: YOUR-EMAIL  
+- Email: jaybardhanbhuyan@gmail.com  
 
 ---

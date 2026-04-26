@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Jyoti%20Bhaskar%20Bhuyan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=A%20game%20developer%20passionate%20about%20gameplay%20programming%2C%20exploring%20multiplayer%20systems%2C%20and%20building%20experiences%20that%20feel%20great%20to%20play.&descAlignY=58&descSize=15&descColor=c9c9e8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header" width="100%"/>
+
+<h2>Hi, I'm Jyoti Bhaskar Bhuyan, a Game Developer</h2>
+
+<p>passionate about gameplay programming, exploring multiplayer systems,<br/>and building experiences that feel great to play.</p>
 
 <br/>
 

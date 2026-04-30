@@ -20,7 +20,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Multiplayer System
+### 🌐 Multiplayer Sample System
 > *Photon PUN 2 + Voice* &nbsp;·&nbsp; Real-Time
 
 <img src="https://raw.githubusercontent.com/My-GameDev-Chores/Photon_Sample-Project--1/main/media/gameplay.gif" width="100%"/>

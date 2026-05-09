@@ -134,6 +134,8 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Photon%20Voice%202-004480?style=for-the-badge&logoColor=white"/>
   &nbsp;
+  <img src="https://img.shields.io/badge/Photon%20Fusion%202-6C47FF?style=for-the-badge&logoColor=white"/>
+  &nbsp;
   <img src="https://img.shields.io/badge/Netcode%20for%20GameObjects-512BD4?style=for-the-badge&logoColor=white"/>
 </p>
 
